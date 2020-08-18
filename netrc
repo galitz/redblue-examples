@@ -4,3 +4,6 @@
 machine some-duper-host.example.com
 login fred
 password smith
+
+macdef init   # initialize macro.  
+put myfile.txt  # FTP command... evil doers now know this an FTP server
