@@ -1,0 +1,6 @@
+# This would normally be .netrc
+
+# flat out bad example:  all data here in plaintext
+machine some-duper-host.example.com
+login fred
+password smith
