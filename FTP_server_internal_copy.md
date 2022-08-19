@@ -1,5 +1,5 @@
 This little hack is good for copying (blindly?) files (keys) from a 
-restricted directory to another location that we may have access perhaps 
+restricted directory to another location that we may have access to, perhaps 
 we mounted a remote dir via NFS or whatnot or we can just grab it via HTTP.
 
 
