@@ -1,4 +1,4 @@
-Use strings to look for an exec'd command and throw a copy in local dir, manipulating the PATH
+Use strings to look for an exec'd command and throw a fake copy in local dir, manipulating the PATH
     
     echo /bin/sh > curl
     chmod 777 curl
