@@ -1,0 +1,8 @@
+# This little hack is good for copying (blindly?) files (keys) from a restricted directory to another location that we may have access
+# perhaps we mounted a remote dir via NFS or whatnot.
+
+
+ftp x.x.x.x
+cpfr /home/dude/somefile
+cpto /var/www/tmp
+
