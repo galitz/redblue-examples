@@ -2,10 +2,6 @@ This little hack is good for copying (blindly?) files (keys) from a restricted d
 perhaps we mounted a remote dir via NFS or whatnot.
 
 
-ftp x.x.x.x
-cpfr /home/dude/somefile
-cpto /var/www/tmp
-
 Real Example:
 ```
     220 ProFTPD 1.3.5 Server (ProFTPD Default Installation) [10.10.12.255]
